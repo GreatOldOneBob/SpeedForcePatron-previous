@@ -1,0 +1,7 @@
+{
+    "CreateConsole": true,
+    "EnableLogging": true,
+    "LogCompile": true,
+    "LogDirectory": "S:\Development\BG3\_Logs",
+    "LogRuntime": true
+}
