@@ -1,0 +1,8 @@
+{
+    "RequiredVersion": 11,
+    "ModTable": "SpeedForcePatron",
+    "FeatureFlags": [
+        "Osiris",
+        "Lua"
+    ]
+}
