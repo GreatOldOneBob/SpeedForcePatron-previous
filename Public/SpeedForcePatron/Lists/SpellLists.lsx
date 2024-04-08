@@ -31,7 +31,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Warlock cantrips (Charisma)" />
-          <attribute id="Spells" type="LSString" value="Projectile_LightningLure;Projectile_Jolt;Target_ShockingGrasp;Shout_BladeWard;Target_ChillTouch;Projectile_EldritchBlast;Target_Friends;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Target_TrueStrike" />
+          <attribute id="Spells" type="LSString" value="Projectile_Eldritch_Container;Projectile_LightningLure;Projectile_Jolt;Target_ShockingGrasp;Shout_BladeWard;Target_ChillTouch;Projectile_EldritchBlast;Target_Friends;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Target_TrueStrike" />
           <attribute id="UUID" type="guid" value="f5c4af9c-5d8d-4526-9057-94a4b243cd40" />
         </node>
       </children>
