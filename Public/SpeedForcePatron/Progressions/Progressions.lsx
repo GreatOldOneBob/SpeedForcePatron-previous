@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-    <version major="45" minor="0" revision="0" build="500" />
+    <version major="4" minor="0" revision="9" build="328" />
     <region id="Progressions">
         <node id="root">
             <children>
@@ -33,29 +33,29 @@
                     </children>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,1);Proficiency(LightArmor);Proficiency(SimpleWeapons)"/>
-                    <attribute id="IsMulticlass" type="bool" value="true"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="Warlock"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedWarlockSpellSlotLevel1"/>
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(f5c4af9c-5d8d-4526-9057-94a4b243cd40,2,0,,,,AlwaysPrepared)"/>
-                    <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
-                    <attribute id="UUID" type="guid" value="20015e25-8aa9-41bf-b959-aa587ba0aa27"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,1);Proficiency(LightArmor);Proficiency(SimpleWeapons)" />
+                    <attribute id="IsMulticlass" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Warlock" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedWarlockSpellSlotLevel1" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f5c4af9c-5d8d-4526-9057-94a4b243cd40,2,0,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377" />
+                    <attribute id="UUID" type="guid" value="20015e25-8aa9-41bf-b959-aa587ba0aa27" />
                     <children>
                         <node id="SubClasses">
                             <children>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="8866db28-7dda-4fd6-93ed-20eca16314f0"/>
+                                    <attribute id="Object" type="guid" value="8866db28-7dda-4fd6-93ed-20eca16314f0" />
                                 </node>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="e1e4a21f-9405-46ec-81a0-ccc8d58d9736"/>
+                                    <attribute id="Object" type="guid" value="e1e4a21f-9405-46ec-81a0-ccc8d58d9736" />
                                 </node>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="733ddf8c-9ec4-4c5a-85e3-c70fd3df3c24"/>
+                                    <attribute id="Object" type="guid" value="733ddf8c-9ec4-4c5a-85e3-c70fd3df3c24" />
                                 </node>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="26c7f548-a9a7-40fe-8cc4-decc36faaf6c"/>
+                                    <attribute id="Object" type="guid" value="26c7f548-a9a7-40fe-8cc4-decc36faaf6c" />
                                 </node>
                             </children>
                         </node>
@@ -64,7 +64,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="SpeedForcePatron" />
-                    <attribute id="PassivesAdded" type="LSString" value="ClarifiedMortality;Speedster;FastReflexes" />
+                    <attribute id="PassivesAdded" type="LSString" value="Speedster;FastReflexes" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Selectors" type="LSString" value="SelectSpells(363d35db-f4a2-4148-bfc6-6ec014d8ef5a,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="2adf8a72-6d0d-40ea-a455-348665fa55b3" />
