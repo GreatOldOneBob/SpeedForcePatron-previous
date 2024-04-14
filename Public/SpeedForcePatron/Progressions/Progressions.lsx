@@ -64,7 +64,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="SpeedForcePatron" />
-                    <attribute id="PassivesAdded" type="LSString" value="ClarifiedMortality;Speedster;FastReflexes" />
+                    <attribute id="PassivesAdded" type="LSString" value="Speedster;FastReflexes" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Selectors" type="LSString" value="SelectSpells(363d35db-f4a2-4148-bfc6-6ec014d8ef5a,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="2adf8a72-6d0d-40ea-a455-348665fa55b3" />
